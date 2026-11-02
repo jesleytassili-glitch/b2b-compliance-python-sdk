@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "b2b-compliance-sdk"
+version = "1.0.0"
+description = "Official Python SDK for 31 B2B Compliance, OFAC Sanctions, GLEIF LEI, EU VAT, CISA KEV CVE, SEC EDGAR & Brazil Tax Engines."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [{name = "jesleytassili-glitch"}]
+keywords = ["kyb", "ofac", "sanctions", "gleif", "vat", "cisa-kev", "sec-edgar", "cnpj", "mcp", "compliance"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://jesleytassili-glitch.github.io/b2b-quant-mcp-n8n-suite/"
+Repository = "https://github.com/jesleytassili-glitch/b2b-compliance-python-sdk"
+RapidAPI = "https://rapidapi.com/user/b2bquantapis"
+ApifyStore = "https://apify.com/b2b-quant-apis"
+
+[tool.setuptools.packages.find]
+where = ["src"]
