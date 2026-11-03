@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "b2b-compliance-sdk"
-version = "1.0.0"
+version = "1.0.2"
 description = "Official Python SDK for 31 B2B Compliance, OFAC Sanctions, GLEIF LEI, EU VAT, CISA KEV CVE, SEC EDGAR & Brazil Tax Engines."
 readme = "README.md"
 license = {text = "MIT"}

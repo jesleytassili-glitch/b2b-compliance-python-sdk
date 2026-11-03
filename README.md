@@ -1,7 +1,7 @@
 # 🐍 `b2b-compliance-sdk` — Official Python SDK (31 B2B Compliance, KYB & Cyber Engines)
 
 [![PyPI](https://img.shields.io/pypi/v/b2b-compliance-sdk?color=brightgreen&label=PyPI)](https://pypi.org/project/b2b-compliance-sdk/)
-[![Release](https://img.shields.io/github/v/release/jesleytassili-glitch/b2b-compliance-python-sdk?color=brightgreen&label=Wheel%20Release)](https://github.com/jesleytassili-glitch/b2b-compliance-python-sdk/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/github/v/release/jesleytassili-glitch/b2b-compliance-python-sdk?color=brightgreen&label=Wheel%20Release)](https://github.com/jesleytassili-glitch/b2b-compliance-python-sdk/releases/tag/v1.0.2)
 [![Official MCP Registry](https://img.shields.io/badge/Official_MCP_Registry-7%2F7_Live-6366F1)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.jesleytassili-glitch)
 [![RapidAPI Hub](https://img.shields.io/badge/RapidAPI-@b2bquantapis-0055FF)](https://rapidapi.com/user/b2bquantapis)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
